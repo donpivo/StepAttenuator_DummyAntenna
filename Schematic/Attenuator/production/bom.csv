@@ -1,0 +1,13 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,200pF,
+C2,0603,1,390pF,
+"J1, J2, J3, J4",SolderWirePad_1.3,4,Conn_01x01,
+L1,0603,1,22µH,
+"R1, R12, R6, R7",0603,4,2.7kΩ,
+"R10, R4",0603,2,82Ω,
+"R11, R2, R5, R8",0603,4,100Ω,
+"R13, R15, R18",0603,3,680Ω,
+"R14, R17",0603,2,68Ω,
+"R16, R25",0603,2,390Ω,
+"R3, R9",0603,2,560Ω,
+"SW1, SW2, SW3",SW_Toggle_DPDT_2MD1T1B1M2QES-5,3,SW_DPDT_x2,
